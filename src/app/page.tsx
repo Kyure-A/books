@@ -75,11 +75,11 @@ export default function Home() {
             field: "category",
             filter: false,
         },
-        {
-            headerName: "ISBN",
-            field: "ISBN",
-            filter: false,
-        },
+        // {
+        //     headerName: "ISBN",
+        //     field: "ISBN",
+        //     filter: false,
+        // },
     ];
 
     const columnDefs = useMemo(() => COLUMNS, [])

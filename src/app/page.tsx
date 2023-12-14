@@ -129,7 +129,7 @@ export default function Home() {
 
     return (
         <>
-            <p className="font-mono bg-pink-200/75 text-4xl tracking-wide underline decoration-pink-500 decoration-4">
+            <p className="font-mono bg-sky-200 text-4xl tracking-wide decoration-4">
                 @Kyure_A/books
             </p>
             <p>
